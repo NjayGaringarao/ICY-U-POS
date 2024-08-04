@@ -8,7 +8,7 @@ Welcome to **ICY-U POS**! This application is designed to digitally manage point
 
 ## Getting Started
 
-You may download and install the [pre-release]() or build the project by yourself by following the instructions:
+You may download and install the [pre-release](https://github.com/NjayGaringarao/ICY-U-POS/releases) or build the project by yourself by following the instructions:
 
 ### 1. Prerequisites
 
@@ -25,7 +25,7 @@ You may download and install the [pre-release]() or build the project by yoursel
 
   - Alternatively, you can use the terminal to clone this repository
     ```bash
-      git clone https://github.com/NjayGaringarao/JRPS_IMS.git
+      git clone https://github.com/NjayGaringarao/ICY-U-POS.git
     ```
 
 ### 3. Make it Run
